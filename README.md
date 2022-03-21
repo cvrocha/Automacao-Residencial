@@ -4,8 +4,8 @@ Para isso, um módulo Bluetooth é interfaceado com a placa Arduino na extremida
 
 A demonstração do projeto está no vídeo e imagens abaixo:
 
-
 <div align="center">
+ <img width="96%" src="https://www.youtube.com/embed/eDQ6t2ftBEQ">
  <div style="display: flex; align-items: flex-start;">
 <img src="https://user-images.githubusercontent.com/62439381/159343227-2a1df231-4b02-460c-a880-551482443406.jpeg" width="96%"/>
 <img src="https://user-images.githubusercontent.com/62439381/159343162-4388a896-3463-4bd5-9d41-b9bf375025dc.jpeg" width="96%"/>

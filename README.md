@@ -42,7 +42,7 @@ Dado abaixo é o diagrama de fluxo que explica o fluxo do projeto.
 
 <div align="center">
  <div>
-  <img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/diagram.jpg" width = "96%"/>  
+ <a href="https://www.youtube.com/embed/eDQ6t2ftBEQ"> <img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/diagram.jpg" width = "96%"/> </a>
  </div>
 </div> 
 
@@ -75,7 +75,7 @@ A lista de componentes mencionados aqui são especificamente para controlar 4 ca
 
 <div align="center">
  <div>
-  <img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/ciruit_diagram.png" width = "96%"/>  
+ <a href="https://www.youtube.com/embed/eDQ6t2ftBEQ"> <img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/ciruit_diagram.png" width = "96%"/> </a>
  </div>
 </div> 
 
@@ -207,7 +207,7 @@ void loop()
 
 <div align="center">
  <div>
-  <img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/app_screenshot.png" width = "35%"/>  
+ <a href="https://www.youtube.com/embed/eDQ6t2ftBEQ"> <img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/app_screenshot.png" width = "35%"/>  </a>
  </div>
 </div> 
 

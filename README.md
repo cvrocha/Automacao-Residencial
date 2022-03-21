@@ -2,9 +2,24 @@
 O objetivo principal deste projeto é desenvolver um sistema de automação residencial utilizando uma placa Arduino com Bluetooth sendo controlado remotamente por qualquer smartphone com sistema operacional Android. 
 Para isso, um módulo Bluetooth é interfaceado com a placa Arduino na extremidade do receptor enquanto na extremidade do transmissor, uma aplicação GUI no telefone celular envia comandos ON/OFF para o receptor onde as cargas estão conectadas. Ao tocar no local especificado na GUI, as cargas podem ser LIGADAS/DESLIGADAS remotamente através desta tecnologia.
 
-A demonstração do projeto está no vídeo do youtube abaixo:
+A demonstração do projeto está no vídeo e imagens abaixo:
 
-<a href = "https://www.youtube.com/watch?v=1ieyT6df8ec" ><img src="https://github.com/aagarwal1012/Home-Automation/blob/master/Images/youtube_image.png" width="50%" /></a>  
+
+<div align="center">
+ <div style="display: flex; align-items: flex-start;">
+<img src="https://user-images.githubusercontent.com/62439381/159343227-2a1df231-4b02-460c-a880-551482443406.jpeg" width="96%"/>
+<img src="https://user-images.githubusercontent.com/62439381/159343162-4388a896-3463-4bd5-9d41-b9bf375025dc.jpeg" width="96%"/>
+ </div>
+</div> 
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://user-images.githubusercontent.com/62439381/159343290-384b11ba-4297-4a48-b190-1ee8dd70d0a4.jpg" width="48%"/>
+<img src="https://user-images.githubusercontent.com/62439381/159343358-0a99ee42-5f1a-4ba9-b653-3cdcb3b24b97.jpg" width="48%"/>
+  </div>
+</div>
+
+<img src="https://www.youtube.com/watch?v=gL1gjvhBvs4&t=57s" width="96%"/>
 
 Conteúdo
 --------
@@ -22,7 +37,11 @@ Da mesma forma, quando o usuário pressiona o botão ‘On’ exibido no aplicat
 Este projeto de automação residencial usando Bluetooth e Arduino pode ser usado para controlar qualquer dispositivo AC ou DC.
 Dado abaixo é o diagrama de fluxo que explica o fluxo do projeto.
 
-<img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/diagram.jpg" width = "75%"/>  
+<div align="center">
+ <div>
+  <img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/diagram.jpg" width = "96%"/>  
+ </div>
+</div> 
 
 
 <a name="components">Componentes</a>
@@ -51,7 +70,12 @@ A lista de componentes mencionados aqui são especificamente para controlar 4 ca
 ---------
 ### Diagrama de circuito
 
-<img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/ciruit_diagram.png" width = "75%"/>  
+<div align="center">
+ <div>
+  <img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/ciruit_diagram.png" width = "96%"/>  
+ </div>
+</div> 
+
 
 ### Código Arduino
 
@@ -178,7 +202,11 @@ void loop()
 
 ### Android App  
 
-<img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/app_screenshot.png" width = "300"/>
+<div align="center">
+ <div>
+  <img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/app_screenshot.png" width = "35%"/>  
+ </div>
+</div> 
 
 
-Any suggestion are welcomed and feel free to open an <a href = "https://github.com/aagarwal1012/Home-Automation/issues">issue</a>.
+Qualquer sugestão é bem-vinda e sinta-se à vontade para abrir um problema.

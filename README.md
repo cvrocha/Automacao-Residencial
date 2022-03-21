@@ -6,39 +6,39 @@ A demonstração do projeto está no vídeo do youtube abaixo:
 
 <a href = "https://www.youtube.com/watch?v=1ieyT6df8ec" ><img src="https://github.com/aagarwal1012/Home-Automation/blob/master/Images/youtube_image.png" width="50%" /></a>  
 
-Contents
+Conteúdo
 --------
-This Readme is divided into several parts
-1. [Description](#description)
-2. [Components](#components)
-3. [Implementation](#implementation)
+Este Readme está dividido em várias partes
+1. [Descrição](#descrição)
+2. [Componentes](#components)
+3. [Implementação](#implementação)
 
 
-<a name="description">Description</a>
+<a name="descrição">Descrição</a>
 ---------
-This project is one of the important <a href = "https://www.projectsof8051.com/arduino-projects/">Arduino Projects</a>. Arduino based home automation using Bluetooth project helps the user to control any electronic device using Device Control app on their Android Smartphone. The android app sends commands to the controller – Arduino, through wireless communication, namely, Bluetooth. The Arduino is connected to the main PCB which has five relays as shown in the block diagram. These relays can be connected to different electronic devices like lights, television, fan, etc.  
-When the user presses on the ‘On’ button displayed on the app for the device 1, the Buzzer is switched on. This Buzzer can be switched off, by pressing the same button again.  
-Similarly, when the user presses on the ‘On’ button displayed on the app for the device 2, the fan is switched on. The fan can be switched off, by pressing the same button again.  
-This project of home automation using Bluetooth and Arduino can be used for controlling any AC or DC devices.  
-Given below is the flow diagram that explains the flow of the project.
+Este projeto é um dos mais importantes <a href = "https://www.projectsof8051.com/arduino-projects/">Arduino Projects</a>. A automação residencial baseada em arduino usando o projeto Bluetooth ajuda o usuário a controlar qualquer dispositivo eletrônico usando o aplicativo Device Control em seu Smartphone Android. O aplicativo android envia comandos para o controlador – Arduino, por meio de comunicação sem fio, ou seja, Bluetooth. O Arduino está conectado à placa principal que possui cinco relés, conforme mostrado no diagrama de blocos. Esses relés podem ser conectados a diferentes dispositivos eletrônicos como luzes, televisão, ventilador, etc.
+Quando o usuário pressiona o botão 'On' exibido no aplicativo para o dispositivo 1, a campainha é ligada. Este Buzzer pode ser desligado, pressionando o mesmo botão novamente.
+Da mesma forma, quando o usuário pressiona o botão ‘On’ exibido no aplicativo para o dispositivo 2, o ventilador é ligado. O ventilador pode ser desligado, pressionando novamente o mesmo botão.
+Este projeto de automação residencial usando Bluetooth e Arduino pode ser usado para controlar qualquer dispositivo AC ou DC.
+Dado abaixo é o diagrama de fluxo que explica o fluxo do projeto.
 
 <img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/diagram.jpg" width = "75%"/>  
 
 
-<a name="components">Components</a>
+<a name="components">Componentes</a>
 ---------
-This section enlists various hardware and software componets used in the project.
+Esta seção lista vários componentes de hardware e software usados no projeto.
 
 #### Hardware
-The list of components mentioned here are specifically for controlling 4 different loads.
+A lista de componentes mencionados aqui são especificamente para controlar 4 cargas diferentes.
 
 - Arduino UNO
-- HC – 05 Bluetooth Module
+- HC – 05 Bluetooth Modulo
 - 5 V Relay X 4
-- Prototyping board (Bread board)
-- Connecting wires
-- Smartphone or tablet (Bluetooth enabled)
-- 5V Power Source
+- Proto board
+- Fios de conexão (Jump, Jumper)
+- Smartphone ou tablet (Bluetooth ativado)
+- 9V Fonte de energia
 
 #### Software
 
@@ -47,13 +47,13 @@ The list of components mentioned here are specifically for controlling 4 differe
 
 
 
-<a name="implementation">Implementation</a>
+<a name="implementação">Implementação</a>
 ---------
-### Circuit Diagram  
+### Diagrama de circuito
 
 <img src = "https://github.com/aagarwal1012/Home-Automation/blob/master/Images/ciruit_diagram.png" width = "75%"/>  
 
-### Arduino Code 
+### Código Arduino
 
 ```
 //Arduino uno

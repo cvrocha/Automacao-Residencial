@@ -1,4 +1,4 @@
-<h1 align="center">🛠 &nbsp; Automação residencial 🛠 &nbsp;</h1>
+<h1 align="center"><img width="80px" src="https://user-images.githubusercontent.com/62439381/159342255-1f96b7cb-5f67-4090-b00d-b89f4d7a1dc4.png">&nbsp;Automação residencial <img width="80px" src="https://user-images.githubusercontent.com/62439381/159342255-1f96b7cb-5f67-4090-b00d-b89f4d7a1dc4.png">&nbsp;</h1>
 O objetivo principal deste projeto é desenvolver um sistema de automação residencial utilizando uma placa Arduino com Bluetooth sendo controlado remotamente por qualquer smartphone com sistema operacional Android. 
 Para isso, um módulo Bluetooth é interfaceado com a placa Arduino na extremidade do receptor enquanto na extremidade do transmissor, uma aplicação GUI no telefone celular envia comandos ON/OFF para o receptor onde as cargas estão conectadas. Ao tocar no local especificado na GUI, as cargas podem ser LIGADAS/DESLIGADAS remotamente através desta tecnologia.
 

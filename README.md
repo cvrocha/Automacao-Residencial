@@ -1,28 +1,31 @@
-<h1 align="center"><img width="80px" src="https://user-images.githubusercontent.com/62439381/159342255-1f96b7cb-5f67-4090-b00d-b89f4d7a1dc4.png">&nbsp;Automação residencial <img width="80px" src="https://user-images.githubusercontent.com/62439381/159342255-1f96b7cb-5f67-4090-b00d-b89f4d7a1dc4.png">&nbsp;</h1>
-O objetivo principal deste projeto é desenvolver um sistema de automação residencial utilizando uma placa Arduino com Bluetooth sendo controlado remotamente por qualquer smartphone com sistema operacional Android. 
+<h1 align="center"><img width="100px" src="https://user-images.githubusercontent.com/62439381/159342255-1f96b7cb-5f67-4090-b00d-b89f4d7a1dc4.png">&nbsp;Automação residencial <img width="100px" src="https://user-images.githubusercontent.com/62439381/159342255-1f96b7cb-5f67-4090-b00d-b89f4d7a1dc4.png">&nbsp;</h1>
+
+O objetivo principal deste projeto é desenvolver um sistema de automação residencial utilizando uma placa Arduino com Bluetooth sendo controlado remotamente por qualquer smartphone com sistema operacional Android.
+
+<br>
+
 Para isso, um módulo Bluetooth é interfaceado com a placa Arduino na extremidade do receptor enquanto na extremidade do transmissor, uma aplicação GUI no telefone celular envia comandos ON/OFF para o receptor onde as cargas estão conectadas. Ao tocar no local especificado na GUI, as cargas podem ser LIGADAS/DESLIGADAS remotamente através desta tecnologia.
 
-A demonstração do projeto está no vídeo e imagens abaixo:
+# 
+
+A demonstração do projeto está no vídeo e imagens **_abaixo_:**
 
 <div align="center">
- <img width="96%" src="https://www.youtube.com/embed/eDQ6t2ftBEQ">
- <div style="display: flex; align-items: flex-start;">
-<img src="https://user-images.githubusercontent.com/62439381/159343227-2a1df231-4b02-460c-a880-551482443406.jpeg" width="96%"/>
-<img src="https://user-images.githubusercontent.com/62439381/159343162-4388a896-3463-4bd5-9d41-b9bf375025dc.jpeg" width="96%"/>
+ <a href="https://www.youtube.com/embed/eDQ6t2ftBEQ"><img width="96%" src="https://user-images.githubusercontent.com/62439381/159349548-c4c37f3f-2028-4c67-a2db-5a47f2f92176.png"></a>
+<a href="https://www.youtube.com/embed/eDQ6t2ftBEQ"><img src="https://user-images.githubusercontent.com/62439381/159343227-2a1df231-4b02-460c-a880-551482443406.jpeg" width="96%"/></a>
+<a href="https://www.youtube.com/embed/eDQ6t2ftBEQ"><img src="https://user-images.githubusercontent.com/62439381/159343162-4388a896-3463-4bd5-9d41-b9bf375025dc.jpeg" width="96%"/></a>
  </div>
 </div> 
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://user-images.githubusercontent.com/62439381/159343290-384b11ba-4297-4a48-b190-1ee8dd70d0a4.jpg" width="48%"/>
-<img src="https://user-images.githubusercontent.com/62439381/159343358-0a99ee42-5f1a-4ba9-b653-3cdcb3b24b97.jpg" width="48%"/>
+<a href="https://www.youtube.com/embed/eDQ6t2ftBEQ"><img src="https://user-images.githubusercontent.com/62439381/159343290-384b11ba-4297-4a48-b190-1ee8dd70d0a4.jpg" width="48%"/></a>
+<a href="https://www.youtube.com/embed/eDQ6t2ftBEQ"><img src="https://user-images.githubusercontent.com/62439381/159343358-0a99ee42-5f1a-4ba9-b653-3cdcb3b24b97.jpg" width="48%"/></a>
   </div>
 </div>
 
-<img src="https://www.youtube.com/watch?v=gL1gjvhBvs4&t=57s" width="96%"/>
+# Conteúdo
 
-Conteúdo
---------
 Este Readme está dividido em várias partes
 1. [Descrição](#descrição)
 2. [Componentes](#components)
